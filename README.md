@@ -20,6 +20,7 @@ Ensure you have the following resources installed and started before running thi
 * [QBox Project](https://github.com/Qbox-project) (Core Framework)
 * [ox_lib](https://github.com/overextended/ox_lib) (UI & Utils)
 * [ox_inventory](https://github.com/overextended/ox_inventory) (Item Management)
+* [ox_target](https://github.com/overextended/ox_target) (Target)
 * [RxNotify](https://github.com/rxscripts/RxNotify) (Notification System)
 
 ## 📥 Installation
@@ -35,3 +36,4 @@ Ensure you have the following resources installed and started before running thi
 1. **Locate the items** Take the file `ox_inventory/items.lua` and add all the item in your `ox_inventory/data/items.lua`
 2. **Locate the images** Take every image in `images/` and add them all in your `ox_inventory/web/images/`
 3. **Ready to play** After all this you are ready to play and enjoy the script!
+
